@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pooria Keshavarz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Linux%20%26%20Server%20Enthusiast&descAlignY=58&descSize=18" alt="Profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Pooria%20Keshavarz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=000000&strokeWidth=2" alt="Profile header" />
 
 <p align="center">
   <a href="https://github.com/PooRiA-KM">
@@ -27,7 +27,6 @@ class Developer:
             "Linux Administration",
             "Server Automation",
             "Windows Server",
-            "Monitoring & DevOps",
         ]
         self.current_focus = [
             "Building practical infrastructure tools",
@@ -56,19 +55,19 @@ print(me.say_hi())
 ### Languages & Scripting
 
 <p align="left">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python,bash,powershell" alt="Python, Bash and PowerShell" /></a>
+  <a><img src="https://skillicons.dev/icons?i=python,bash,powershell" alt="Python, Bash and PowerShell" /></a>
 </p>
 
 ### Systems & Infrastructure
 
 <p align="left">
-  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker,nginx" alt="Linux, Ubuntu, Debian, Windows, Docker and Nginx" /></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux,debian,windows,docker,nginx" alt="Linux, Debian, Windows, Docker and Nginx" /></a>
 </p>
 
 ### Databases & Development Tools
 
 <p align="left">
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode,pycharm" alt="PostgreSQL, SQLite, Git, GitHub, VS Code and PyCharm" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=sqlite,git,github,pycharm" alt="PostgreSQL, SQLite, Git, GitHub and PyCharm" /></a>
 </p>
 
 <p align="left">
@@ -81,161 +80,20 @@ print(me.say_hi())
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ [Server Sentinel](https://github.com/PooRiA-KM/server-sentinel)
-
-A Python-based server monitoring agent for Linux systems.
-
-**Planned features:**
-- CPU, RAM, disk and network monitoring
-- Service and process health checks
-- Telegram/email alerts
-- JSON logs and SQLite history
-- FastAPI status endpoint
-- Docker support
-
-`Python` `psutil` `FastAPI` `SQLite` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐧 [Linux Admin Toolbox](https://github.com/PooRiA-KM/linux-admin-toolbox)
-
-A collection of safe administration and troubleshooting tools for Linux.
-
-**Planned features:**
-- System information report
-- Disk cleanup assistant
-- User and permission audit
-- Open-port inspection
-- Service management helpers
-- Interactive terminal menu
-
-`Python` `Bash` `Linux` `Rich` `Typer`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [Infra Dashboard](https://github.com/PooRiA-KM/infra-dashboard)
-
-A lightweight web dashboard for monitoring multiple servers.
-
-**Planned features:**
-- Agent/server architecture
-- Live metrics and health status
-- Historical charts
-- Authentication and role management
-- REST API
-- Docker Compose deployment
-
-`FastAPI` `PostgreSQL` `Redis` `Docker` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🪟 [Windows Server Auditor](https://github.com/PooRiA-KM/windows-server-auditor)
-
-An auditing tool for Windows Server configuration and security checks.
-
-**Planned features:**
-- Local users and groups report
-- Windows services audit
-- Firewall profile inspection
-- Event Log summary
-- Update-status report
-- HTML and JSON export
-
-`Python` `PowerShell` `Windows Server` `WMI`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💾 [Backup Orchestrator](https://github.com/PooRiA-KM/backup-orchestrator)
-
-A configurable backup automation tool for files and databases.
-
-**Planned features:**
-- Incremental and scheduled backups
-- Compression and encryption
-- Retention policies
-- Local, SSH and S3-compatible targets
-- Restore verification
-- Notification system
-
-`Python` `APScheduler` `Paramiko` `Cryptography`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Network Inventory Scanner](https://github.com/PooRiA-KM/network-inventory-scanner)
-
-A defensive inventory tool for discovering devices on an authorized network.
-
-**Planned features:**
-- Host discovery
-- Basic port and service inventory
-- Hostname and vendor information
-- CSV, JSON and HTML reports
-- Change detection between scans
-- Clear authorization and safe-use controls
-
-`Python` `AsyncIO` `Sockets` `SQLite` `Jinja2`
-
-</td>
-</tr>
-</table>
-
-> These repositories are currently being built. Follow my profile to see their progress.
-
----
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PooRiA-KM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PooRiA-KM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PooRiA-KM&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=50%2C000000%2C00014D5A" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PooRiA-KM&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PooRiA-KM&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PooRiA-KM&theme=github-dark&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 ---
 
-## 🎯 Current Learning Roadmap
 
-```text
-Python Core & Clean Code
-        ↓
-CLI Tools and Automation
-        ↓
-Linux and Network Programming
-        ↓
-FastAPI and PostgreSQL
-        ↓
-Testing and CI/CD
-        ↓
-Docker and Infrastructure Automation
-        ↓
-Cloud and DevOps Fundamentals
-```
-
----
 
 ## 🤝 Connect With Me
 
