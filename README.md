@@ -52,25 +52,40 @@ print(me.say_hi())
 
 ## 🧰 Tech Stack
 
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+
 ### Languages & Scripting
 
-<p align="left">
+<p>
   <a><img src="https://skillicons.dev/icons?i=python,bash,powershell" alt="Python, Bash and PowerShell" /></a>
 </p>
+</td>
+
+<td align="center" valign="top" width="50%">
 
 ### Systems & Infrastructure
 
-<p align="left">
+<p>
   <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux,debian,windows,docker,nginx" alt="Linux, Debian, Windows, Docker and Nginx" /></a>
 </p>
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top" width="50%">
 
 ### Databases & Development Tools
 
-<p align="left">
+<p>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=sqlite,git,github,pycharm" alt="PostgreSQL, SQLite, Git, GitHub and PyCharm" /></a>
 </p>
+</td>
 
-<p align="left">
+<td align="center" valign="top" width="50%">
+</br>
+<p>
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python automation" />
   <img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux administration" />
   <img src="https://img.shields.io/badge/Windows-Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
@@ -78,18 +93,25 @@ print(me.say_hi())
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+</td>
+</tr>
+</table>
+<br/>
+
 ---
 
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PooRiA-KM&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=50%2C000000%2C00014D5A" alt="GitHub Streak" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PooRiA-KM&theme=github-dark&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=PooRiA-KM&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=50%2C000000%2C00014D5A" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=PooRiA-KM&theme=github-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+
+</div>
+
+<br/>
 
 ---
 
@@ -99,7 +121,7 @@ print(me.say_hi())
 
 <p align="center">
   <a href="https://github.com/PooRiA-KM">
-    <img src="https://img.shields.io/badge/GitHub-PooRiA-KM-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-PooRiA--KM-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
